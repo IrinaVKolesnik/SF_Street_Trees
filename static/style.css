@@ -1,0 +1,17 @@
+div.jumbotron {
+  background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiX4qyNhIfcAhUPI3wKHU53ALMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ftree&psig=AOvVaw3ztmkKi-8bMDWyIZUueIQN&ust=1530848204715968);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: green;
+  text-shadow: greenyellow 0.3em 0.3em 0.3em;
+}
+
+
+
+
+#map,
+body,
+html {
+  height: 100% !important;
+}
